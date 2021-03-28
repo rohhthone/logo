@@ -1,0 +1,2 @@
+# logo
+SVG graphics
